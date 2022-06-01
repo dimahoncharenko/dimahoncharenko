@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @dimahoncharenko
-- 👀 I’m interested in programming with TypeScript, Node and React!
-- 🌱 I’m currently learning module testing!
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Honcharenko Dmytro and I’m Front-End developer!
+- 👀 I’m interested in Web-development, especially, by using TypeScript, Node and React!
+- 🌱 I’m currently looking for job!
+- 📫 Keep in touch with me: d.goncharenko.man@gmail.com
 
 <!---
 dimahoncharenko/dimahoncharenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
