@@ -11,11 +11,3 @@ Passionate Front-End Developer building user-centric experiences with modern tec
 **ORM:** Prisma  ✨
 
 **Open to Work** :mailbox: d.goncharenko.man@gmail.com
-ORM: Prisma  <i class="fas fa-database"></i>
-
-Open to Work :mailbox: d.goncharenko.man@gmail.com
-
-<!---
-dimahoncharenko/dimahoncharenko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
