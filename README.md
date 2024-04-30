@@ -11,3 +11,5 @@ Passionate Front-End Developer building user-centric experiences with modern tec
 **ORM:** Prisma  ✨
 
 **Open to Work** :mailbox: d.goncharenko.man@gmail.com
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,firebase,github,gcp,nextjs,nodejs,postgres,react,tailwind,threejs,ts,vite,vscode,webpack,wordpress)](https://skillicons.dev)
