@@ -1,16 +1,16 @@
 ## Dima Honcharenko | Front-End Developer  
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/dimahoncharenko-33a9a3218/">
     <img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://t.me/Dima_honcharenko_2001">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram" alt="Telegram Badge"/>
   </a>
 </div>
 
-Don't have a time for boring description? Look at my inner CLI:
-<p>dimahoncharenko@creative-coder:~$ git pull inspiration && npm install creativity</p>
-<p>dimahoncharenko@creative-coder:~$ grep passion web | xargs -I {} vscode --turbo && echo 'Challenge accepted!'</p>
+<h3>Don't have a time for boring description? Look at my inner CLI:</h3>
+<p><code>dimahoncharenko@creative-coder:~$ git pull inspiration && npm install creativity</code></p>
+<p><code>dimahoncharenko@creative-coder:~$ grep passion web | xargs -I {} vscode --turbo && echo 'Challenge accepted!'</code></p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW0ybzQ0ZDk0eGp1eGs3NWhoODk3MXQ2ZjE5b3JzMHh2azN0bmhiOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/55cX2zvcUP1vMlNIMF/giphy.gif" width="1200"/>
